@@ -24,6 +24,9 @@ For downloading dataset:<br> just go through folder <strong>dataset</strong> in 
 ## Full Code
 For viewing full code:<br> just go through folder <strong>full_code</strong> in this repository
 
+## Final Result
+Final Result can be seen in <strong>backup_db</strong> in this repository
+
 ## ERD Diagram / EER Diagram
 ![image](https://github.com/syaerulid/design_database_chicken_sales/assets/119069839/0448913f-d6b4-4619-8452-8e6eed8321c2)
 
